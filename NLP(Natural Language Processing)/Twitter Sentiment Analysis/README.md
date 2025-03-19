@@ -30,28 +30,13 @@ Analyzing the dataset helps us uncover patterns in sentiment distribution. Key i
 - A higher frequency of neutral tweets compared to positive or negative tweets.
 - Common words in positive and negative tweets identified using word clouds.
 
-![Dataset Preview](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Input%20Data.jpg)
-
-The following count plot illustrates sentiment distribution:
-
-![Sentiment Count Plot](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Sentiment%20countplot.jpg)
-
 ### Word Clouds for Sentiment Analysis
-**Positive Tweets:**
-
-![Positive Word Cloud](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Positive%20wordcloud.jpg)
-
-**Negative Tweets:**
-
-![Negative Word Cloud](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Negative%20wordcloud.jpg)
 
 ## 🔧 Hyperparameter Tuning
 Fine-tuning hyperparameters is crucial to optimizing model performance. This project explores various configurations to achieve the best results.
 
 ## 📈 Model Performance
 The loss discrepancy between training and test data suggests overfitting. Despite this, the model demonstrates strong generalization on unseen data.
-
-![Model Performance](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Model%20Performance.jpg)
 
 ## 📥 How to Download and Run the Repository
 ### Prerequisites
